@@ -1,0 +1,5 @@
+aws_access_key = "AKIAWXKM3N4PZKTKCUVV"
+aws_secret_key = "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"
+asw_region = "us-east-1a"
+vpc_namem = "terraform-aws-testing"
+vpc_cidr = "10.1.0.0/16"
